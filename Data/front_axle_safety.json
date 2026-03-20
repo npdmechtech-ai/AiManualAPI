@@ -1,0 +1,23 @@
+{
+  "id": "FA_SAFE_001",
+  "component": "Front Axle",
+  "type": "safety",
+  "heading": "Safety and Precautions",
+  "dos": [
+    "Regularly inspect any signs of wear, damage, or loose components",
+    "Adhere strictly to the manufacturer’s instructions and guidelines",
+    "Adhere to the maintenance schedules",
+    "Use recommended lubricants",
+    "Follow the safe operating procedures",
+    "Park the machine on stable ground",
+    "Travel with the load low to the ground. Travel slowly with caution over rough, slippery and loose surfaces"
+  ],
+  "donts": [
+    "Distribute loads equally",
+    "Avoid operating on unstable or uneven ground whenever possible",
+    "Increasing the front bucket volume",
+    "Do not weld or cut wheel rims",
+    "Do not change any tyre sizes",
+    "Do not inflate the tyre beyond the recommended value"
+  ]
+}

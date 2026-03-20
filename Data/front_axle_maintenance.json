@@ -1,0 +1,39 @@
+{
+  "id": "FA_MAIN_001",
+  "component": "Front Axle",
+  "type": "maintenance",
+  "heading": "Maintenance Schedule",
+  "data": [
+    {
+      "item": "Pin",
+      "interval": "Every 3000 hrs"
+    },
+    {
+      "item": "Bearings & Seals",
+      "interval": "Every 3000 hrs"
+    },
+    {
+      "item": "Fasteners",
+      "interval": "Every 3000 hrs"
+    },
+    {
+      "item": "Bush",
+      "interval": "Every 5000 hrs"
+    },
+    {
+      "item": "Cylinder Seals",
+      "interval": "Every 2000 hrs"
+    },
+    {
+      "item": "Grease nipples",
+      "interval": "Every 500 hrs"
+    },
+    {
+      "item": "Tyre & Tube",
+      "interval": "Maintain recommended pressure"
+    }
+  ],
+  "notes": [
+    "Grease reduces friction and wear"
+  ]
+}
