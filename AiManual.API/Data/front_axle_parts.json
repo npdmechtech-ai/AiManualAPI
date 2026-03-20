@@ -1,0 +1,32 @@
+{
+  "id": "FA_PARTS_001",
+  "component": "Front Axle",
+  "type": "parts",
+  "heading": "Front Axle Parts List",
+  "parts": [
+    {
+      "partName": "Pin king",
+      "partNumber": "CP03D0010148",
+      "qty": 2,
+      "sapNo": "7009036"
+    },
+    {
+      "partName": "Washer plate m10",
+      "partNumber": "PU03AAGA0007",
+      "qty": 2,
+      "sapNo": "2000291"
+    },
+    {
+      "partName": "Stub axle full assy LH",
+      "partNumber": "BSA0064B0000",
+      "qty": 1,
+      "sapNo": "7013996"
+    },
+    {
+      "partName": "Stub axle full assy RH",
+      "partNumber": "BSA0064C0000",
+      "qty": 1,
+      "sapNo": "7013998"
+    }
+  ]
+}

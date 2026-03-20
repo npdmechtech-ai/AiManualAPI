@@ -1,0 +1,1387 @@
+{
+  "id": "FA_PROC_001",
+  "component": "Front Axle",
+  "type": "procedure",
+  "heading": "Front Axle Replacement Procedure",
+  "steps": [
+    {
+      "stepNo": 1,
+      "description": "Park the vehicle on level ground",
+      "tools": [],
+      "images": [ "procedure/Fr.Axle_pg1_Step_1.jpg" ],
+      "warnings": [],
+      "notes": []
+    },
+    {
+      "stepNo": 2,
+      "description": "Remove the safety member from the top link 1 which is fitted on left side of the vehicle",
+      "tools": [],
+      "images": [ "procedure/Fr.Axle_pg1_Step_2.jpg" ],
+      "warnings": [],
+      "notes": []
+    },
+    {
+      "stepNo": 3,
+      "description": "Ensure there is minimum 2 mm gap from the rubber grommet. Slide the locking stud to the left side and rotate in anticlock wise direction",
+      "tools": [],
+      "images": [ "procedure/Fr.Axle_pg1_Step_3.jpg, Fr.Axle_pg1_Step_3.1.jpg" ],
+      "warnings": [],
+      "notes": []
+    },
+    {
+      "stepNo": 4,
+      "description": "Locate the locking stud in straight position",
+      "tools": [],
+      "images": [ "procedure/Fr.Axle_pg2_Step_4.jpg" ],
+      "warnings": [],
+      "notes": []
+    },
+    {
+      "stepNo": 5,
+      "description": "Carefully remove the safety member with both hands. If it is dropped, it will damage the breather / return line filter or injure the operator",
+      "tools": [],
+      "images": [ "procedure/Fr.Axle_pg2_Step_5.jpg" ],
+      "warnings": [],
+      "notes": []
+    },
+    {
+      "stepNo": 6,
+      "description": "Lift the loader arm up to maximum stroke of the cylinder. *Stabilizer foot to touch up to ground only Rear axle should not be lifted",
+      "tools": [],
+      "images": [ "procedure/Fr.Axle_pg2_Step_6.jpg" ],
+      "warnings": [],
+      "notes": []
+    },
+    {
+      "stepNo": 7,
+      "description": "Place the safety member such that the slotted position is located on top",
+      "tools": [],
+      "images": [ "procedure/Fr.Axle_pg2_Step_7.jpg" ],
+      "warnings": [],
+      "notes": []
+    },
+    {
+      "stepNo": 8,
+      "description": "Pull the ignition kill switch and turn off the engine",
+      "tools": [],
+      "images": [ "procedure/Fr.Axle_pg3_Step_8.jpg" ],
+      "warnings": [],
+      "notes": [ "Applicable only for BS II Machines" ]
+    },
+    {
+      "stepNo": 9,
+      "description": "Turn off the ignition key",
+      "tools": [],
+      "images": [ "procedure/Fr.Axle_pg3_Step_9.jpg" ],
+      "warnings": [],
+      "notes": [ "Remove the key from the switch and keep it under your control for safety." ]
+    },
+    {
+      "stepNo": 10,
+      "description": "Gently release the hydraulic pressure by operating the joystick",
+      "tools": [],
+      "images": [ "procedure/Fr.Axle_pg3_Step_10.jpg" ],
+      "warnings": [],
+      "notes": []
+    },
+    {
+      "stepNo": 11,
+      "description": "Carefully lower the loader till the arm cylinder rod end eye touches the safety member",
+      "tools": [],
+      "images": [ "procedure/Fr.Axle_pg3_Step_11.jpg" ],
+      "warnings": [],
+      "notes": []
+    },
+    {
+      "stepNo": 12,
+      "description": "Pull the bonnet lock release knob which is located inside the cabin",
+      "tools": [],
+      "images": [ "procedure/Fr.Axle_pg4_Step_12.jpg" ],
+      "warnings": [],
+      "notes": [ "Located near the left side of the steering cover" ]
+    },
+    {
+      "stepNo": 13,
+      "description": "Lift the bonnet by hand upwards fully",
+      "tools": [],
+      "images": [ "procedure/Fr.Axle_pg4_Step_13.jpg" ],
+      "warnings": [],
+      "notes": [ "Ensure both the LH and RH gas struts are in good working condition" ]
+    },
+    {
+      "stepNo": 14,
+      "description": "Push the battery cut off switch downwards and turn it in the anticlockwise direction to off position",
+      "tools": [],
+      "images": [ "procedure/Fr.Axle_pg4_Step_14.jpg" ],
+      "warnings": [],
+      "notes": []
+    },
+    {
+      "stepNo": 15,
+      "description": "To remove the bumper from the chassis, remove the CSK Screws, M8 Cup washers, M8 Plain Washers and M8 Nylock nut (6 nos) using 5mm allen key and 13mm double end spanner",
+      "tools": [
+        {
+          "name": "Allen key",
+          "size": "5mm"
+        },
+        {
+          "name": "Double End Spanner",
+          "size": "13mm"
+        }
+      ],
+      "images": [ "procedure/Fr.Axle_pg4_Step_15.jpg" ],
+      "warnings": [],
+      "notes": []
+    },
+    {
+      "stepNo": 16,
+      "description": "Using 13mm double end spanner, loosen the battery positive and negative terminals",
+      "tools": [
+        {
+          "name": "Spanner",
+          "size": "13mm"
+        }
+      ],
+      "images": [ "procedure/Fr.Axle_pg5_Step_16.1.jpg" ],
+      "warnings": [],
+      "notes": [ "First remove the negative terminal from the battery. Next remove the positive terminal" ]
+    },
+    {
+      "stepNo": 17,
+      "subSteps": [
+        {
+          "subStepNo": 1,
+          "description": "Loosen the LH and RH winged nuts and remove the battery support clamp.",
+          "images": [
+            "procedure/Fr.Axle_pg5_Step_17.jpg",
+            "procedure/Fr.Axle_pg5_Step_17.1.jpg",
+            "procedure/Fr.Axle_pg5_Step_17.2.jpg"
+          ]
+        },
+        {
+          "subStepNo": 2,
+          "description": "Using the handles, lift the battery and place it on a rubber mat or wooden plank on the floor.",
+          "images": [
+            "procedure/Fr.Axle_pg6_Step_17.3.jpg",
+            "procedure/Fr.Axle_pg6_Step_17.4.jpg"
+          ]
+        }
+      ],
+      "tools": [],
+      "warnings": [],
+      "notes": []
+    },
+    {
+      "stepNo": 18,
+      "description": "To remove the front weight, use 24mm socket + extension rod + ratchet and 24mm double end spanner and loosen the M16 X 200mm hex bolt (A) and nyloc nut (4 nos)",
+      "tools": [
+        {
+          "name": "Socket",
+          "size": "24mm"
+        },
+        {
+          "name": "Ratchet",
+          "size": "-"
+        },
+        {
+          "name": "Spanner",
+          "size": "24mm"
+        }
+      ],
+      "images": [ "procedure/Fr.Axle_pg6_Step_18.1.jpg, Fr.Axle_pg6_Step_18.2.jpg" ],
+      "warnings": [],
+      "notes": [
+        "2 models available Machine with 5 large + 2 small weights, Machine with 3 large + 2 small weights"
+      ]
+    },
+    {
+      "stepNo": 19,
+      "description": "Using 30mm wheel spanner, loosen the M20 wheel nuts (A) (5 nos on LH and RH side).",
+      "tools": [
+        {
+          "name": "Wheel spanner",
+          "size": "30mm"
+        }
+      ],
+      "images": [ "procedure/Fr.Axle_pg6_Step_19..jpg" ],
+      "warnings": [],
+      "notes": []
+    },
+    {
+      "stepNo": 20,
+      "subSteps": [
+        {
+          "subStepNo": 1,
+          "description": "Now, remove the wheels nuts (A) on LH and RH sides",
+          "images": [ "Fr.Axle_pg6_Step_20.jpg" ]
+        },
+        {
+          "subStepNo": 2,
+          "description": "Carefully remove the wheel and tyre assembly from the hub bolts",
+          "images": [
+            "Fr.Axle_pg6_Step_20.1.jpg"
+          ]
+        }
+      ],
+      "tools": [],
+      "warnings": [],
+      "notes": []
+    },
+    {
+      "stepNo": 21,
+      "description": "Using 32mm double end spanner, loosen the hub cap (A) on the LH side",
+      "tools": [
+        {
+          "name": "Spanner",
+          "size": "32mm"
+        }
+      ],
+      "images": [ "procedure/Fr.Axle_pg6_Step_22.jpg, Fr.Axle_pg6_Step_22.1.jpg" ],
+      "warnings": [],
+      "notes": [ "To prevent the hub from rotating, hold the stud with a polished under size dummy rod" ]
+    },
+    {
+      "stepNo": 22,
+      "description": "Using ratchet and 11mm socket, loosen the pressure relief valve and remove it from the hub cup assembly",
+      "tools": [
+        {
+          "name": "Socket",
+          "size": "11mm"
+        },
+        {
+          "name": "Ratchet",
+          "size": "-"
+        }
+      ],
+      "images": [ "procedure/Fr.Axle_pg6_Step_23.1.jpg, Fr.Axle_pg6_Step_23.2.jpg " ],
+      "warnings": [],
+      "notes": []
+    },
+    {
+      "stepNo": 23,
+      "description": "Using 13mm double end spanner, loosen the 90deg bend type grease nipple (1 no) from the LH stub axle assembly and store it safely",
+      "tools": [
+        {
+          "name": "Spanner",
+          "size": "13mm"
+        }
+      ],
+      "images": [ "procedure/Fr.Axle_pg6_Step_24.jpg" ],
+      "warnings": [],
+      "notes": []
+    },
+    {
+      "stepNo": 24,
+      "description": "Using cutting pliers, unfold the cotter pin and remove it from the lock nut assembly",
+      "tools": [
+        {
+          "name": "Cutting plier",
+          "size": "-"
+        }
+      ],
+      "images": [ "procedure/Fr.Axle_pg6_Step_25.jpg, Fr.Axle_pg6_Step_25.1.jpg" ],
+      "warnings": [],
+      "notes": [
+        "Split cottar pin cut off no's are 1. HD2571 2. CH474 3. HN1015 4. HH699 ONWARDS old design: Directly adjust the split nut up to reach the torque"
+      ]
+    },
+    {
+      "stepNo": 25,
+      "description": "Loosen the hub lock nut using 36mm spanner",
+      "tools": [
+        {
+          "name": "Spanner",
+          "size": "36mm"
+        }
+      ],
+      "images": [ "procedure/Fr.Axle_pg6_Step_26.jpg, Fr.Axle_pg6_Step_26.1.jpg" ],
+      "warnings": [],
+      "notes": []
+    },
+    {
+      "stepNo": 26,
+      "description": "Remove the type - 2 washer and type - 1 washer from the top of the taper roller bearing",
+      "tools": [],
+      "images": [ "procedure/Fr.Axle_pg6_Step_27.1.jpg, Fr.Axle_pg6_Step_27.2.jpg" ],
+      "warnings": [],
+      "notes": []
+    },
+    {
+      "stepNo": 27,
+      "description": "Remove the 33709 taper roller bearing (83x26x83) from the hub",
+      "tools": [],
+      "images": [ "procedure/Fr.Axle_pg6_Step_28.1.jpg, Fr.Axle_pg6_Step_28.2.jpg, Fr.Axle_pg6_Step_28.3.jpg" ],
+      "warnings": [],
+      "notes": []
+    },
+    {
+      "stepNo": 28,
+      "description": "Now, carefully pull out the hub sub assembly from the stub axle cone and place it on the work bench with the wheel end facing downwards",
+      "tools": [],
+      "images": [ "procedure/Fr.Axle_pg6_Step_29.jpg" ],
+      "warnings": [],
+      "notes": []
+    },
+    {
+      "stepNo": 29,
+      "description": "Remove the taper roller bearing no.33709 from the hub by hammering it out",
+      "tools": [
+        {
+          "name": "Hammer",
+          "size": "-"
+        }
+      ],
+      "images": [ "procedure/Fr.Axle_pg6_Step_30.jpg, Fr.Axle_pg6_Step_30.1.jpg" ],
+      "warnings": [],
+      "notes": []
+    },
+    {
+      "stepNo": 30,
+      "description": "Remove the oil seal and taper roller bearing 33777 from the hub by hammering them",
+      "tools": [
+        {
+          "name": "Hammer",
+          "size": "-"
+        }
+      ],
+      "images": [ "procedure/Fr.Axle_pg6_Step_31.jpg" ],
+      "warnings": [],
+      "notes": []
+    },
+    {
+      "stepNo": 31,
+      "subSteps": [
+        {
+          "subStepNo": 1,
+          "description": "Assemble M22 nuts (A) 5 nos on to the M22 stud (B) 5 nos",
+          "images": [ "Fr.Axle_pg6_Step_32.jpg" ]
+        },
+        {
+          "subStepNo": 2,
+          "description": "Manually assemble another set of M22 dummy nuts (D) 5 nos onto the M22 stud such that it gets located on top of the M22 nut (A)",
+          "images": [
+            "Fr.Axle_pg6_Step_32.1.jpg"
+          ]
+        }
+      ],
+      "tools": [],
+      "warnings": [],
+      "notes": []
+    },
+    {
+      "stepNo": 32,
+      "subSteps": [
+        {
+          "subStepNo": 1,
+          "description": "Using 36mm Double end spanner loosen the M22 nut (A) 5 nos in the anti clock wise direction",
+          "images": [ "Fr.Axle_pg6_Step_33.jpg" ]
+        },
+        {
+          "subStepNo": 2,
+          "description": "Manually assemble another set of M22 dummy nuts (D) 5 nos onto the M22 stud such that it gets located on top of the M22 nut (A)",
+          "images": [
+            "Fr.Axle_pg6_Step_33.1.jpg"
+          ]
+        },
+
+        {
+          "subStepNo": 3,
+          "description": "Manually remove the M22 dummy nuts (D) 5 nos and the M22 nuts (A) 5 nos from the stud (B)",
+          "images": [
+            "Fr.Axle_pg6_Step_33.2.jpg"
+          ]
+        }
+      ],
+      "tools": [],
+      "warnings": [],
+      "notes": []
+    },
+    {
+      "stepNo": 33,
+      "description": "Hammer and remove the 101 x 38 x 101 bearing housing from the hub bore",
+      "tools": [
+        {
+          "name": "Hammer",
+          "size": "-"
+        }
+      ],
+      "images": [ "procedure/Fr.Axle_pg6_Step_34.jpg" ],
+      "warnings": [],
+      "notes": []
+    },
+    {
+      "stepNo": 34,
+      "description": "Hammer and remove the 101 x 38 x 101 bearing housing from the hub bore",
+      "tools": [
+        {
+          "name": "Hammer",
+          "size": "-"
+        }
+      ],
+      "images": [ "procedure/Fr.Axle_pg6_Step_35.jpg" ],
+      "warnings": [],
+      "notes": []
+    },
+    {
+      "stepNo": 35,
+      "description": "Hammer and remove the 83 x 26 x 83 bearing housing from the hub bore",
+      "tools": [
+        {
+          "name": "Hammer",
+          "size": "-"
+        }
+      ],
+      "images": [ "procedure/Fr.Axle_pg6_Step_36.1.jpg, Fr.Axle_pg6_Step_36.2.jpg" ],
+      "warnings": [],
+      "notes": [ "Repeat steps 22 to 36 for RH side hub axle" ]
+    },
+    {
+      "stepNo": 36,
+      "description": "Using 27mm socket and ratchet, loosen the M27 nylon nut (A) and manually pull out the connecting rod from the LH stub axle hole",
+      "tools": [
+        {
+          "name": "Socket",
+          "size": "27mm"
+        },
+        {
+          "name": "Ratchet",
+          "size": "-"
+        }
+      ],
+      "images": [ "procedure/Fr.Axle_pg6_Step_37.1.jpg, Fr.Axle_pg6_Step_37.2.jpg" ],
+      "warnings": [],
+      "notes": []
+    },
+    {
+      "stepNo": 37,
+      "description": "Using 11mm socket and ratchet, loosen the straight grease nipples (2 nos.) and store them safely",
+      "tools": [
+        {
+          "name": "Socket",
+          "size": "11mm"
+        },
+        {
+          "name": "Ratchet",
+          "size": "-"
+        }
+      ],
+      "images": [ "procedure/Fr.Axle_pg6_Step_38.jpg" ],
+      "warnings": [],
+      "notes": []
+    },
+
+    {
+      "stepNo": 38,
+      "subSteps": [
+        {
+          "subStepNo": 1,
+          "description": "To remove the LH side kingpin cover (D), use 19mm socket and ratchet and loosen the M12 x 30mm hex bolt (A) , plate washer (B) and spring washer (C) (1 no)",
+          "images": [
+            "Fr.Axle_pg6_Step_39.1.jpg",
+            "Fr.Axle_pg6_Step_39.2.jpg",
+            "Fr.Axle_pg6_Step_39.3.jpg",
+            "Fr.Axle_pg6_Step_39.4.jpg",
+            "Fr.Axle_pg6_Step_39.5.jpg"
+          ]
+        },
+        {
+          "subStepNo": 2,
+          "description": "Remove the dummy M10 washer (A) located underneath the kingpin cover and ontop of the kingpin",
+          "images": [
+            "Fr.Axle_pg6_Step_39.6.jpg"
+          ]
+        }
+      ],
+      "tools": [],
+      "warnings": [],
+      "notes": []
+    },
+    {
+      "stepNo": 39,
+      "subSteps": [
+        {
+          "subStepNo": 1,
+          "description": "To remove the kingpin lock bolt, loosen the M10 nyloc nut (A), spring washer (B) and plate washer (C) using 17mm socket and ratchet",
+          "images": [
+            "Fr.Axle_pg6_Step_40.jpg",
+            "Fr.Axle_pg6_Step_40.1.jpg",
+            "Fr.Axle_pg6_Step_40.2.jpg",
+            "Fr.Axle_pg6_Step_40.3.jpg"
+          ]
+        },
+        {
+          "subStepNo": 2,
+          "description": "Fit a dummy M10 nut (D) and tighten it till the face of the nut and the bolt is flat",
+          "images": [
+            "Fr.Axle_pg6_Step_40.4.jpg"
+          ]
+        },
+        {
+          "subStepNo": 3,
+          "description": "Hammer the dummy nut to remove the kingpin lock bolt",
+          "images": [
+            "Fr.Axle_pg6_Step_40.5.jpg"
+          ]
+        },
+        {
+          "subStepNo": 4,
+          "description": "Remove the dummy M10 washer (A) located underneath the kingpin cover and ontop of the kingpin",
+          "images": [
+            "Fr.Axle_pg6_Step_40.6.jpg"
+          ]
+        }
+      ],
+      "tools": [],
+      "warnings": [],
+      "notes": []
+    },
+
+    {
+      "steps": [
+        {
+          "stepNo": 40,
+          "description": "Fasten the safety rope on the stub axle and hold it using a crane",
+          "tools": [],
+          "images": [ "procedure/Fr.Axle_pg6_Step_41.jpg" ],
+          "warnings": [],
+          "notes": []
+        },
+        {
+          "stepNo": 41,
+          "description": "Gently hammer the kingpin (A) from the bottom of the axle using a nylon hammer and remove it from the bore of the stub axle",
+          "tools": [
+            {
+              "name": "Hammer",
+              "size": "-"
+            }
+          ],
+          "images": [ "procedure/Fr.Axle_pg6_Step_42.jpg" ],
+          "warnings": [],
+          "notes": []
+        },
+        {
+          "stepNo": 42,
+          "description": "Remove the thrust bearing no. 04734 with the bearing rubber boot from the bottom of the stub axle",
+          "tools": [],
+          "images": [ "procedure/Fr.Axle_pg6_Step_43.1.jpg, Fr.Axle_pg6_Step_43.2.jpg" ],
+          "warnings": [],
+          "notes": []
+        },
+        {
+          "stepNo": 43,
+          "description": "Now, carefully pull out the stub axle assembly from the front axle and place it on the work bench with the front axle end facing downwards",
+          "tools": [],
+          "images": [ "procedure/Fr.Axle_pg6_Step_44.1.jpg, Fr.Axle_pg6_Step_44.2.jpg" ],
+          "warnings": [],
+          "notes": []
+        },
+        {
+          "stepNo": 44,
+          "description": "Remove the oil seal (A) from the cone shaft surface on the stub axle",
+          "tools": [],
+          "images": [ "procedure/Fr.Axle_pg6_Step_45.jpg" ],
+          "warnings": [],
+          "notes": []
+        },
+        {
+          "stepNo": 45,
+          "description": "Hammer the cone shaft firmly and remove it from the stub axle bore",
+          "tools": [
+            {
+              "name": "Hammer",
+              "size": "-"
+            }
+          ],
+          "images": [ "procedure/Fr.Axle_pg6_Step_46.jpg, Fr.Axle_pg6_Step_46.1.jpg" ],
+          "warnings": [],
+          "notes": [ "Use a hydraulic press to remove the spindle if it cannot be hammered out" ]
+        },
+        {
+          "stepNo": 46,
+          "description": "Remove the dust seals (A) (2 nos) and the PMX 4540 bush (B) from the stub axle bore by hammering them out",
+          "tools": [
+            {
+              "name": "Hammer",
+              "size": "-"
+            }
+          ],
+          "images": [ "procedure/Fr.Axle_pg6_Step_47.jpg, Fr.Axle_pg6_Step_47.1.jpg" ],
+          "warnings": [],
+          "notes": [ "Repeat steps 37 and 47 to dismantle the RH side stub axle" ]
+        },
+        {
+          "stepNo": 47,
+          "subSteps": [
+            {
+              "subStepNo": 1,
+              "description": "Loosen the lock nut (A) using double end spanner 26mm and 46mm",
+              "images": [
+                "Fr.Axle_pg6_Step_48.jpg"
+              ]
+            },
+            {
+              "subStepNo": 2,
+              "description": "Unscrew the connecting rod and remove it from the ball joint",
+              "images": [
+                "Fr.Axle_pg6_Step_48.1.jpg"
+              ]
+            },
+            {
+              "subStepNo": 3,
+              "description": "Remove the M20 wedge lock small washer (A) and safely store it",
+              "images": [
+                "Fr.Axle_pg6_Step_48.2.jpg"
+              ]
+            }
+
+          ],
+          "tools": [],
+          "warnings": [],
+          "notes": []
+        },
+
+        {
+          "stepNo": 48,
+          "subSteps": [
+            {
+              "subStepNo": 1,
+              "description": "Using 22mm double end spanner, loosen the power steering fluid supply and return line hoses (A) from the metal pipes on the power steering cylinder",
+              "images": [
+                "Fr.Axle_pg6_Step_49.jpg"
+              ]
+            },
+            {
+              "subStepNo": 2,
+              "description": "Keep a plastic container below the hoses to collect the power steering fluid draining from them",
+              "images": [
+                "Fr.Axle_pg6_Step_49.1.jpg"
+              ]
+            }
+
+          ],
+          "tools": [],
+          "warnings": [],
+          "notes": []
+        },
+
+        {
+          "stepNo": 49,
+          "subSteps": [
+            {
+              "subStepNo": 1,
+              "description": "Locate the 46mm double end spanners (2 nos) on the LH and the RH side of the ball joint spanner slot and rotate them simultaneously in the anticlockwise direction to unscrew the LH and RH ball joints from the power steering pistons’ ID threads",
+              "images": [
+                "Fr.Axle_pg6_Step_50.jpg"
+              ]
+            },
+            {
+              "subStepNo": 2,
+              "description": "Safely store the ball joints and the wedge lock washers (A) (2 nos)",
+              "images": [
+                "Fr.Axle_pg6_Step_50.1.jpg"
+              ]
+            }
+
+          ],
+          "tools": [],
+          "warnings": [],
+          "notes": [ "Repeat steps 48 to 49 for RH side ball joints" ]
+        },
+
+
+        {
+          "stepNo": 50,
+          "description": "Prior to removal, mark the LH and RH mounting clamps appropriately to avoid mixup during refitment",
+          "tools": [
+            {
+              "name": "",
+              "size": ""
+            }
+          ],
+          "images": [ "procedure/Fr.Axle_pg6_Step_51.jpg" ],
+          "warnings": [],
+          "notes": [ "" ]
+        },
+        {
+          "stepNo": 51,
+          "description": "Using 19mm socket + ratchet and 19mm double end spanner, loosen the mounting clamp bolt (A) and nuts (4 nos), Safely store the mounting brackets and fastners",
+          "tools": [],
+          "images": [ "procedure/Fr.Axle_pg6_Step_52.jpg" ],
+          "warnings": [],
+          "notes": []
+        },
+
+        {
+          "stepNo": 52,
+          "description": "Safely store the power steering cylinder",
+          "tools": [],
+          "images": [ "procedure/Fr.Axle_pg6_Step_53.jpg" ],
+          "warnings": [],
+          "notes": []
+        },
+        {
+          "stepNo": 53,
+          "description": "Locate the hydraulic jack under the front axle at the center and lift it such that it touches the bottom of the axle",
+          "tools": [
+            {
+              "name": "Hydraulic jack",
+              "size": "-"
+            }
+          ],
+          "images": [ "procedure/Fr.Axle_pg6_Step_54.jpg, Fr.Axle_pg6_Step_54.1.jpg" ],
+          "warnings": [],
+          "notes": [ "The entire axle along with the hub and stub axle can be removed to save time" ]
+        },
+
+        {
+          "stepNo": 54,
+          "subSteps": [
+            {
+              "subStepNo": 1,
+              "description": "Hold the M12 nylock nut using 19mm double end spanner and loosen the M12 x 110 allen bolt using ratchet and 18mm socket",
+              "images": [
+                "Fr.Axle_pg6_Step_55.jpg"
+              ]
+            },
+            {
+              "subStepNo": 2,
+              "description": "Remove the nylock nut and bolt from the axle",
+              "images": [
+                "Fr.Axle_pg6_Step_55.1.jpg"
+              ]
+            }
+
+          ],
+          "tools": [
+            {
+              "name": "Spanner",
+              "size": "19mm"
+            },
+            {
+              "name": "Socket",
+              "size": "19mm"
+            },
+            {
+              "name": "Ratchet",
+              "size": "-"
+            }
+          ],
+          "warnings": [],
+          "notes": []
+        },
+
+        {
+          "stepNo": 55,
+          "subSteps": [
+            {
+              "subStepNo": 1,
+              "description": "Gently hammer the front axle pin from engine side and pull it out from the front side and store it safely. Now, the front axle is completely resting on the hydraulic jack",
+              "images": [
+                "Fr.Axle_pg6_Step_56.jpg"
+              ]
+            },
+            {
+              "subStepNo": 2,
+              "description": "Carefully lower the hydraulic jack along with the front axle",
+              "images": [
+                "Fr.Axle_pg6_Step_56.1.jpg"
+              ]
+            },
+
+            {
+              "subStepNo": 3,
+              "description": "Place the front axle on 2 support stands",
+              "images": [
+                "Fr.Axle_pg6_Step_56.2.jpg"
+              ]
+            }
+
+          ],
+          "tools": [
+            {
+              "name": "",
+              "size": ""
+            },
+            {
+              "name": "",
+              "size": ""
+            },
+            {
+              "name": "",
+              "size": ""
+            }
+          ],
+          "warnings": [],
+          "notes": []
+        },
+
+        {
+          "stepNo": 56,
+          "description": "Remove the M85 thrust washer (1 no) and 0.5mm shim from the front and back of the axle and store it safely",
+          "tools": [],
+          "images": [ "procedure/Fr.Axle_pg6_Step_57.jpg" ],
+          "warnings": [],
+          "notes": []
+        },
+
+        {
+          "stepNo": 57,
+          "description": "Remove the dust seal 60mm x 50mm x 4mm from front axle bore using tool",
+          "tools": [],
+          "images": [ "procedure/Fr.Axle_pg6_Step_58.jpg" ],
+          "warnings": [],
+          "notes": []
+        },
+        {
+          "stepNo": 58,
+          "description": "Gently hammer the self lubricated carbide bush using the nylon tool and a nylon hammer and take it out from the axle bore",
+          "tools": [
+            {
+              "name": "Hammer",
+              "size": "-"
+            }
+          ],
+          "images": [ "procedure/Fr.Axle_pg6_Step_59.jpg" ],
+          "warnings": [],
+          "notes": []
+        },
+
+        {
+          "stepNo": 59,
+          "subSteps": [
+            {
+              "subStepNo": 1,
+              "description": "Clean the front axle centre bore thoroughly using a clean cloth dipped in diesel or thinner",
+              "images": [
+                "Fr.Axle_pg6_Step_60.jpg"
+              ],
+
+              "notes": [ "Don’t apply any oil or grease in this area" ]
+            },
+            {
+              "subStepNo": 2,
+              "description": "Insert the carbide self lubricated bush into the bore",
+              "images": [
+                "Fr.Axle_pg6_Step_60.1.jpg"
+              ]
+            },
+
+            {
+              "subStepNo": 3,
+              "description": "Gently hammer the self lubricated bush using the nylon tool and a nylon hammer",
+              "images": [
+                "Fr.Axle_pg6_Step_60.2.jpg"
+              ]
+            },
+
+            {
+              "subStepNo": 4,
+              "description": "Bush should be butt Inside the bore step",
+              "images": [
+                "Fr.Axle_pg6_Step_60.3.jpg"
+              ]
+            },
+
+            {
+              "subStepNo": 5,
+              "description": "Insert the dust seal 60mm x 50mm x 4mm into front axle bore assembly (Flat surface to be positioned inside). Hammer it using a nylon hammer",
+              "images": [
+                "Fr.Axle_pg6_Step_60.4.jpg, Fr.Axle_pg6_Step_60.5.jpg"
+              ]
+            }
+
+          ],
+          "tools": [
+            {
+              "name": "Hammer",
+              "size": ""
+            },
+            {
+              "name": "",
+              "size": ""
+            },
+            {
+              "name": "",
+              "size": ""
+            }
+          ],
+          "warnings": []
+        },
+
+        {
+          "stepNo": 60,
+          "subSteps": [
+            {
+              "subStepNo": 1,
+              "description": "Apply OKS 200 paste inside the chassis bore where the front axle pin is assembled",
+              "images": [
+                "Fr.Axle_pg6_Step_61.jpg"
+              ],
+              "notes": [
+                "Ensure OKS 200 assembly paste expiry date"
+              ]
+            },
+            {
+              "subStepNo": 2,
+              "description": "Lift the front axle to the chassis using a hydraulic jack and align the axle bore with the chassis bore",
+              "images": [
+                "Fr.Axle_pg6_Step_61.1.jpg"
+              ]
+            },
+            {
+              "subStepNo": 3,
+              "description": "Place the M85 thrust washer (1 nos) & 0.5 shim depends upon gap inbetween the chassis and the front axle. Do this process for both front & back side",
+              "images": [
+                "Fr.Axle_pg6_Step_61.2.jpg"
+              ]
+            },
+            {
+              "subStepNo": 4,
+              "description": "Insert the front axle pin from the front of the chassis to connect front axle with chassis",
+              "images": [
+                "Fr.Axle_pg6_Step_61.3.jpg"
+              ]
+            },
+            {
+              "subStepNo": 5,
+              "description": "Lock the Front axle pin with chassis using M12 x 110 hex bolt and M12 Nylock nut (1 nos)",
+              "images": [
+                "Fr.Axle_pg6_Step_61.4.jpg"
+              ]
+            },
+
+            {
+              "subStepNo": 6,
+              "description": "Hold the M12 nut using 19 double end spanner and tighten the M12 X 110 allen bolt using 19mm allen key",
+              "images": [
+                "Fr.Axle_pg6_Step_61.5.jpg"
+              ],
+
+              "notes": [
+                "1 thread should be visible after bolt tightening"
+              ]
+            }
+          ],
+          "tools": [
+            {
+              "name": "Hydraulic jack",
+              "size": "-"
+            },
+            {
+              "name": "Spanner",
+              "size": "19mm"
+            },
+            {
+              "name": "Allen key",
+              "size": "19mm"
+            }
+          ],
+
+          "warnings": [],
+          "notes": []
+        }
+      ]
+
+    },
+   
+
+    {
+      "steps": [
+        {
+          "stepNo": 61,
+          "description": "Mount the power steering cylinder onto the engine side of the axle. Locate the cylinder mounting clamp with M12 x 80 mm half thread hex bolt with spring washer each side 2 nos and nylock nuts (A) (2 nos)",
+          "tools": [
+            {
+              "name": "Socket",
+              "size": "19mm"
+            },
+            {
+              "name": "Spanner",
+              "size": "19mm"
+            },
+            {
+              "name": "Torque wrench",
+              "size": "90Nm"
+            }
+          ],
+          "images": [ "procedure/step61.jpg" ],
+          "warnings": [],
+          "notes": [
+            "Ensure that the two metal pipes on the cylinder are positioned near the right side clamp.",
+            "Ensure that the grooves on the body of the power steering cylinder perfectly matches with the tightening clamp.",
+            "Ensure there is a minimum gap of 2 to 3mm. Otherwise change the clamp or it will damage the cylinder tube"
+          ]
+        },
+        {
+          "stepNo": 62,
+          "description": "Cylinder piston rod both side distance should zero ± 1 mm (centre appx is 160 mm). The length of the piston to be 160mm. The difference between the LH and RH side measurement can be ± 1mm",
+          "tools": [],
+          "images": [ "procedure/step68.jpg" ],
+          "warnings": [],
+          "notes": [ "For challenger, super smart specification, even old model also" ]
+        },
+        {
+          "stepNo": 63,
+          "description": "Insert the M20 wedge lock washer and ensure its position. Apply AN03B thread lock sealant. Locate the ball joint in the piston’s ID thread and hand tighten it. Perform the above two steps for both LH and RH ball joints",
+          "tools": [],
+          "images": [ "procedure/step68.jpg" ],
+          "warnings": [],
+          "notes": [ "Check and ensure the expiry date of AN03B sealant" ]
+        },
+        {
+          "stepNo": 64,
+          "description": "Locate the 46 mm double end spanner on the RH side of the ball joint spanner slot and the torque wrench on the LH side of the ball joint spanner slot. Now set a tightening torque of 300 Nm. Ensure 6 to 7 threads maximum are visible",
+          "tools": [
+            {
+              "name": "Spanner",
+              "size": "46mm"
+            },
+            {
+              "name": "Torque wrench",
+              "size": "300Nm"
+            }
+          ],
+          "images": [ "procedure/step64.jpg" ],
+          "warnings": [],
+          "notes": [ "300Nm" ]
+        },
+        {
+          "stepNo": 65,
+          "description": "Insert the M20 mm wedge lock small washer into ball joint thread on LH side. Manually adjust the lock nut such that it is approximately 6 threads away from the rubber boot. Adjust the ball joint towards engine side to facilitate easy connection of the connecting rod assembly. Manually, assemble the connecting rod upto the wedge lock washer end",
+          "tools": [],
+          "images": [ "procedure/step68.jpg" ],
+          "warnings": [],
+          "notes": []
+        },
+        {
+          "stepNo": 66,
+          "description": "Pick the LH side stub axle",
+          "tools": [],
+          "images": [ "procedure/step68.jpg" ],
+          "warnings": [],
+          "notes": [
+            "The diameter of the hole to fit the ball joint is smaller at the bottom side and larger at the top side.",
+            "Refer the annexure 1 for stub axle and related components matrix. Click Here"
+          ]
+        },
+        {
+          "stepNo": 67,
+          "description": "Place the stub axle on the fixture Apply Mobi fluid 424 Oil over outer die of PMX 4540 bush (A) Locate PMX 4540 bush straightly at stub axle bore. Place tool over the bush and hammer it until the bush’s top butts with the stub axle. Locate the dust seal over the top and bottom PMX 4540 bush (A) and hammer it with a nylon hammer",
+          "tools": [
+            {
+              "name": "Hammer",
+              "size": "-"
+            }
+          ],
+          "images": [ "procedure/step67.jpg" ],
+          "warnings": [],
+          "notes": []
+        },
+        {
+          "stepNo": 68,
+          "description": "Place the stub axle on the fixture and locate the cone shaft at stub axle bore. Hammer the cone shaft until it butts with stub axle surface",
+          "tools": [
+            {
+              "name": "Hammer",
+              "size": "-"
+            }
+          ],
+          "images": [ "procedure/step68.jpg" ],
+          "warnings": [],
+          "notes": []
+        },
+        {
+          "stepNo": 69,
+          "description": "Pick the oil seal (A) retainer. Assemble the oil seal retainer using the special tool with ID 75mm and minimum length of 180mm. Ensure oil seal retainer is seated properly on the cone shaft surface. Ensure cone shaft and the retainer surface are free from dent and damages after assembly",
+          "tools": [
+            {
+              "name": "special tool",
+              "size": "-"
+            }
+          ],
+          "images": [ "procedure/step68.jpg" ],
+          "warnings": [],
+          "notes": [
+            "Ensure the plain surface of the oil seal retainer is facing the top.",
+            "Repeat the above steps 66 to 69 for the RH side stub axle"
+          ]
+        },
+        {
+          "stepNo": 70,
+          "description": "Carefully lift the LH side stub axle assembly using a crane and locate it in the front axle. Insert the kingpin such that the key slot in the kingpin matches with the lock bolt hole in the axle body.",
+          "tools": [],
+          "images": [ "procedure/step68.jpg" ],
+          "warnings": [],
+          "notes": []
+        },
+        {
+          "stepNo": 71,
+          "description": "Insert the thrust bearing no 04734 into the bearing rubber boot. Locate the bearing in the axle and locate it in the center. To assemble the kingpin, gently hammer it using a nylon hammer",
+          "tools": [
+            {
+              "name": "Hammer",
+              "size": "-"
+            }
+          ],
+          "images": [ "procedure/step68.jpg" ],
+          "warnings": [],
+          "notes": [
+            "Ensure that the arrow mark is facing downwards.",
+            "The rubber boot should be free from cut marks.",
+            "Repeat steps 70 & 71 for the LH side stub axle assembly with front axle"
+          ]
+        },
+        {
+          "stepNo": 72,
+          "description": "Insert the RH side kingpin lock bolt (A). Hammer the lock bolt until it gets inserted to the maximum limit. Insert M10 plate washer (A), spring washer (B) and nyloc nut (C). Use 17 mm socket and ratchet to tighten the nylon nut. Use 17mm socket and torque wrench, set a tightening torque of 50Nm",
+          "tools": [
+            {
+              "name": "Hammer",
+              "size": "-"
+            },
+            {
+              "name": "Socket",
+              "size": "17mm"
+            },
+            {
+              "name": "Ratchet",
+              "size": "-"
+            },
+            {
+              "name": "Torque wrench",
+              "size": "50Nm"
+            }
+          ],
+          "images": [ "procedure/step64.jpg" ],
+          "warnings": [],
+          "notes": [
+            "Ensure the tapper slot is facing towards the kingpin slot.",
+            "50Nm.",
+            "Repeat step 72 for RH side kingpin lock bolt installation and tightening"
+          ]
+        },
+        {
+          "stepNo": 73,
+          "description": "Before mounting the kingpin cover, locate a dummy M10 washer (A) ontop of the kingpin to avoid rubbing of the kingpin cover on the stub axle surface. Assemble the kingpin cover (A) and then M12 x30mm hex bolt (B), plate washer (C) and spring washer (D). Tighten using 19 mm socket and ratchet. Using 19mm socket and torque wrench, set a tightening torque of 90Nm",
+          "tools": [
+            {
+              "name": "Socket",
+              "size": "19mm"
+            },
+            {
+              "name": "Ratchet",
+              "size": "-"
+            },
+            {
+              "name": "Torque wrench",
+              "size": "90Nm"
+            }
+          ],
+          "images": [ "procedure/step64.jpg" ],
+          "warnings": [],
+          "notes": [
+            "90Nm.",
+            "Repeat the above steps for RH side"
+          ]
+        },
+        {
+          "stepNo": 74,
+          "description": "Assemble the straight grease nipples, one on top and another at the bottom. Tighten using ratchet and 11mm socket. Using 11mm socket and torque wrench, set a tightening torque of 10Nm. Assemble the connecting rod with the stub axle. Manually push the connecting rod into the stub axle hole. Tighten the M27 nyloc nut by using 27 mm socket and ratchet. Using torque wrench, set a tightening torque of 165 Nm",
+          "tools": [
+            {
+              "name": "Socket",
+              "size": "11mm"
+            },
+            {
+              "name": "Ratchet",
+              "size": "-"
+            },
+            {
+              "name": "Torque wrench",
+              "size": "10Nm"
+            },
+            {
+              "name": "Socket",
+              "size": "27mm"
+            },
+            {
+              "name": "Torque wrench",
+              "size": "165Nm"
+            }
+          ],
+          "images": [ "procedure/step64.jpg" ],
+          "warnings": [],
+          "notes": [
+            "10Nm.",
+            "Before locating the connecting rod into the stub axle, ensure that the larger ID stub axle hole is positioned on top. If not, it will result in thread damage and improper assembly.",
+            "165Nm.",
+            "Repeat the steps to assemble the RH side connecting rod"
+          ]
+        },
+        {
+          "stepNo": 75,
+          "description": "Pick the hub and place it on the fixture. Place the bearing housing (A) (101 x 38 x 101) into the hub bore using Nose plier. Locate and assemble the bearing housing using a hand press tool. Flip the hub upside down and locate it properly on the fixture. Place the bearing housing (A) (83 x 26 x 83) into the hub bore using Nose plier. Locate and assemble the bearing housing using a hand press tool",
+          "tools": [],
+          "images": [ "procedure/step64.jpg" ],
+          "warnings": [],
+          "notes": []
+        },
+        {
+          "stepNo": 76,
+          "description": "Locate the hub on the fixture. Apply EP02 grease over the M20 stud thread and assemble M20 Dummy Nut. Apply High thread lock sealant (Loctite - 263) over M22 stud thread. Manually assemble the M22 stud (A) into the internal thread of the hub - 3 to 4 threads. Using a pneumatic gun and 36mm socket, tighten the M22 Studs (A) (5 nos) with hub. Using torque wrench and 36mm socket, set a torque 330 Nm for each of the 5 wheel studs (A)",
+          "tools": [
+            {
+              "name": "Socket",
+              "size": "36mm"
+            },
+            {
+              "name": "Torque wrench",
+              "size": "330Nm"
+            }
+          ],
+          "images": [ "procedure/step64.jpg" ],
+          "warnings": [],
+          "notes": [
+            "Check and ensure sealant expiry date prior to usage.",
+            "M22 stud to be assembled into the hub and the M20 stud to be projecting outwards where the wheel nuts will be mounted.",
+            "Tighten using pneumatic gun till one thread of the bolt is visible.",
+            "330Nm"
+          ]
+        },
+        {
+          "stepNo": 77,
+          "description": "Locate the hub on the fixture such that the stub axle end is facing upwards. Apply NLGI2 spl grease and then locate the taper roller bearing 33777 into the hub. Locate the oil seal on top of the taper roller bearing. Now, locate the special tool with OD 120 mm & ID 75 mm on top of the oil seal and hammer it firmly using a nylon hammer. Lift the hub and flip it such that the wheel end of the hub is facing upwards. Locate the taper roller bearing no 33709 in hub assembly top side and press it using a hydraulic press",
+          "tools": [
+            {
+              "name": "Hammer",
+              "size": "-"
+            }
+          ],
+          "images": [ "procedure/step68.jpg" ],
+          "warnings": [],
+          "notes": [ "Repeat steps 75, 76 & 77 for another hub" ]
+        },
+        {
+          "stepNo": 78,
+          "description": "Pick a stub axle sub assembly and place it such that the cone shaft is facing upwards. Pick a hub sub assembly and insert it into the stub axle cone shaft carefully to avoid any seal damages. Assemble the 33709 taper roller bearing (83 x 26 x 83) into the hub and apply Mobile Grease XHP 222 grease on the bearing surfaces. Grease Grade - NLGI 2. Assemble type-1 washer over the bearing with projection engaged in the key way. Assemble the type-2 washer over the type-1 washer. Locate the lock nut and hand tighten it",
+          "tools": [],
+          "images": [ "procedure/step68.jpg" ],
+          "warnings": [],
+          "notes": [
+            "Ensure that the type 1 washer is locked into cone shaft.",
+            "Repeat the above steps for RH side"
+          ]
+        },
+        {
+          "stepNo": 79,
+          "description": "Assemble the 90deg bend type grease nipple (1 no.). Tighten using 13 mm double end spanner. Using torque wrench, set a tightening torque of 10Nm",
+          "tools": [
+            {
+              "name": "Spanner",
+              "size": "13mm"
+            },
+            {
+              "name": "Torque wrench",
+              "size": "10Nm"
+            }
+          ],
+          "images": [ "procedure/step68.jpg" ],
+          "warnings": [],
+          "notes": [
+            "10Nm.",
+            "Repeat the above steps for RH side"
+          ]
+        },
+        {
+          "stepNo": 80,
+          "description": "Insert the 55 mm cotter pin into LH hub lock nut assembly. Secure the safety belt onto all the 5 hub assembly studs and forcibly pull the belt once. Secure the safety belt onto all the 5 hub assembly studs again. Fit the digital or mechanical weighing scale at the other end of the safety belt. Pull the belt using the weighing scale. 12 kg force is required to pull the safety belt by 1 meter. If the force is less than 12 kg, then remove the cotter pin and tighten the lock nut further clockwise with 36mm socket and ratchet. Repeat steps 3 and 4. If the force is 12 kg, then using a cutting pliers, bend the cotter pin inside and outside. Assemble the pressure relief valve into the hub cup assembly. Tighten it using ratchet + 11mm socket. Use a torque wrench and 11 mm socket and set a tightening torque of 8 to 10Nm. Fill the hub cup assembly with spl grease NLGI2. Apply AN03GB thread lock paste on the thread of the hub cup assembly. Tighten the cup using 32 mm double end spanner. Using a torque wrench, set a tightening torque of 60Nm",
+          "tools": [
+            {
+              "name": "Socket",
+              "size": "11mm"
+            },
+            {
+              "name": "Torque wrench",
+              "size": "8 to 10Nm"
+            },
+            {
+              "name": "Spanner",
+              "size": "32mm"
+            },
+            {
+              "name": "Torque wrench",
+              "size": "60Nm"
+            }
+          ],
+          "images": [ "procedure/step64.jpg" ],
+          "warnings": [],
+          "notes": [
+            "8 to 10Nm.",
+            "NLGI2 grade grease is only recommended as it will enhance bearing life. Don’t use the grease which is used for pin bushes.",
+            "To prevent the hub from rotating, hold the stud with a polished pipe.",
+            "Repeat the above steps for the RH hub side.",
+            "60Nm"
+          ]
+        },
+        {
+          "stepNo": 81,
+          "description": "Measure the distance between the LH and RH hub at the front and rear of the axle using a measuring tape. Check and ensure that the same number of threads are on the LH and RH ball joint. Max allowed deviation is by 1 thread. Hold the ball joint spanner slot with 46 mm double end spanner and then adjust the ball joint threads to match the readings. After matching the distance between the LH and RH hub measured at the front and rear of the axle, ensure that both the LH and RH ball joint threads are equal. Normally front to rear tyre centre value is 1920 mm + 5mm. Hold the connecting rod spanner slot by using 22 mm double end with extension pipe and then lock the nut by using 30 mm double end spanner. Using a torque wrench, set a tightening torque of 140Nm. Perform this in both LH and RH side",
+          "tools": [
+            {
+              "name": "Spanner",
+              "size": "46mm"
+            },
+            {
+              "name": "Spanner",
+              "size": "22mm"
+            },
+            {
+              "name": "Spanner",
+              "size": "30mm"
+            },
+            {
+              "name": "Torque wrench",
+              "size": "140Nm"
+            }
+          ],
+          "images": [ "procedure/step68.jpg" ],
+          "warnings": [],
+          "notes": [
+            "The measured distance to be 1920 ± 5mm. In case of any deviation, the below steps have to be followed.",
+            "Rotating the RH ball joint assembly in clockwise direction will increase the length and in anti clockwise direction will decrease the length. This phenomenon is exactly opposite for the LH ball joint threads.",
+            "Before tightening, ensure the connecting rod is threaded to the ball joint.",
+            "140Nm"
+          ]
+        },
+        {
+          "stepNo": 82,
+          "description": "Connect the power steering supply and return lines hoses (A) with the metal pipes on the power steering cylinder. Tighten using 22mm double end spanner",
+          "tools": [
+            {
+              "name": "Spanner",
+              "size": "22mm"
+            }
+          ],
+          "images": [ "procedure/step68.jpg" ],
+          "warnings": [],
+          "notes": []
+        },
+        {
+          "stepNo": 83,
+          "description": "Mount the front LH and RH tyre + wheel assembly onto the hub wheel bolts. Locate the LH & RH M20 wheel nuts (A) (5 nos on each side) and tighten using 30mm wheel spanner",
+          "tools": [
+            {
+              "name": "Spanner",
+              "size": "30mm"
+            }
+          ],
+          "images": [ "procedure/step68.jpg" ],
+          "warnings": [],
+          "notes": []
+        }
+      ]
+    }
+  
+
+  ]
+        }
